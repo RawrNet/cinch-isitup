@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "cinch-isitup"
-  s.version = '1.0'
+  s.version = '1.0.1'
   s.authors = ["Richard Banks"]
   s.email = ["namaste@rawrnet.net"]
   s.license = 'MIT'
