@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.authors = ["Richard Banks"]
   s.email = ["namaste@rawrnet.net"]
   s.license = 'MIT'
-  s.homepage = "https://github.com/RawrNet/cinch-bitcoin"
+  s.homepage = "https://github.com/RawrNet/cinch-isitup"
   s.summary = "A simple plugin to check if a website is up or down."
   s.description = "A simple plugin to check if a website is up or down"
 
