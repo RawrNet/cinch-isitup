@@ -1,5 +1,6 @@
 cinch-isitup
 ============
+[![Gem Version](https://badge.fury.io/rb/cinch-isitup.png)](http://badge.fury.io/rb/cinch-isitup)
 
 A simple plugin to check if a website is up or down
 
